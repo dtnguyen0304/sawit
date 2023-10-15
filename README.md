@@ -14,13 +14,10 @@ If you use our provided data and/or models, please cite our work at,
                   Dean M. Corva and 
                   Abbas Z. Kouzani and 
                   Thanh Thi Nguyen and 
-                  Duc Thanh Nguyen},
-                  
+                  Duc Thanh Nguyen},      
     title        = {SAWIT: A small-sized animal wild image dataset with annotations}, 
-  
     journal      = {Multimedia Tools and Applications},
     year         = {2023}
-    
 }
 
 
