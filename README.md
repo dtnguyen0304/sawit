@@ -7,7 +7,7 @@ If you use our provided data and/or models, please cite our work at,
 
 @article{SAWIT,
 
-  author       = {Thi Thu Thuy Nguyen and 
+    author       = {Thi Thu Thuy Nguyen and 
                   Anne C. Eichholtzer and 
                   Don A. Driscoll and 
                   Nathan I. Semianiw and 
@@ -16,10 +16,11 @@ If you use our provided data and/or models, please cite our work at,
                   Thanh Thi Nguyen and 
                   Duc Thanh Nguyen},
                   
-  title        = {SAWIT: A small-sized animal wild image dataset with annotations}, 
+    title        = {SAWIT: A small-sized animal wild image dataset with annotations}, 
   
-  journal      = {Multimedia Tools and Applications},
-  year         = {2023}
+    journal      = {Multimedia Tools and Applications},
+    year         = {2023}
+    
 }
 
 
