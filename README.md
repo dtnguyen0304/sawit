@@ -4,6 +4,7 @@ SAWIT (small-sized animal wild image dataset) is the first real-world dataset of
 
 # Citation
 If you use our provided data and/or models, please cite our work at,
+
 @article{SAWIT,
 
     author       = {Thi Thu Thuy Nguyen and 
@@ -20,6 +21,6 @@ If you use our provided data and/or models, please cite our work at,
     journal      = {Multimedia Tools and Applications},
     year         = {2023}
     
-    }
+}
 
 
