@@ -17,7 +17,7 @@ If you use our provided data and/or models, please cite our work at,
                   Duc Thanh Nguyen},      
     title        = {SAWIT: A small-sized animal wild image dataset with annotations}, 
     journal      = {Multimedia Tools and Applications},
-    year         = {2023}
+    year         = {2023},
 }
 
 
