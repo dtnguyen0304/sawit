@@ -1,1 +1,0 @@
-Small_mammal 7 254 333 465

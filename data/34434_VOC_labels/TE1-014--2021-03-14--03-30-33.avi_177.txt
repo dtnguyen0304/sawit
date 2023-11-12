@@ -1,1 +1,0 @@
-Small_mammal 255 0 412 275
