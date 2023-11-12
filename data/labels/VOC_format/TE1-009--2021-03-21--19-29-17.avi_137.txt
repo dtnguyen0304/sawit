@@ -1,0 +1,1 @@
+Small_mammal 42 0 72 42
